@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-image: url("theme.gif");
+}
+#user1_name{
+    width: 20%;
+    height: 15px;
+    background-color: transparent;
+    border-radius: 10%;
+    text-shadow: white;
+}
+#user2_name{
+    width: 20%;
+    height: 15px;
+    background-color: transparent;
+    border-radius: 10%;
+    text-shadow: white;
+}
+h2{
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: white;
+}
+.div1{
+    width: 90px;
+    height: 45px;
+    margin-top: 250px;
+}
+#log_in{
+    text-shadow: blue;
+    text-transform: uppercase;
+}
+.label1{
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+    text-shadow: white;
+}
+#name{
+    font-size: 10px;
+}
+#name2{
+    font-size: 10px;
+}
