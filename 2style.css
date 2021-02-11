@@ -1,0 +1,19 @@
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+.div1{
+    background-color: transparent;
+}
+#ouetion_input{
+    text-shadow: white;
+    width: 20%;
+    height: 15px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+#output{
+    background-color: white;
+}
